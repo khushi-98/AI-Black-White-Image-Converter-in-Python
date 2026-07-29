@@ -68,57 +68,11 @@ This automated approach is fast, accurate, and requires no manual editing.
 
 ---
 
-# 📂 Project Structure
 
-```text
-AI-Image-to-Black-and-White/
-│
-├── images/
-│   ├── input.jpg
-│   └── output.jpg
-│
-├── image_converter.py
-├── requirements.txt
-└── README.md
-```
 
----
 
-# ▶️ Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/AI-Image-to-Black-and-White.git
-```
-
-Move into the project folder:
-
-```bash
-cd AI-Image-to-Black-and-White
-```
-
-Install the required libraries:
-
-```bash
-pip install opencv-python numpy
-```
-
----
-
-# ▶️ Usage
-
-Run the Python program:
-
-```bash
-python image_converter.py
-```
-
-Upload a color image.
-
-The AI will automatically convert it into a black and white image and display the result.
-
----
 
 # 🌍 Real-Life Applications
 
@@ -194,8 +148,4 @@ This project provides a simple introduction to Artificial Intelligence through i
 
 ---
 
-## 👩‍💻 Author
 
-**Khushi Bansal**
-
-Artificial Intelligence | Machine Learning | Computer Vision Enthusiast
